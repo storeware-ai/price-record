@@ -1,0 +1,12 @@
+{
+  "tree_size": 17431,
+  "root": "31daa7945c2854278c949d73d1d169fca66434b15aab432aa282b233bc061e74",
+  "checkpoint": "storeware.ai/price-record\n17431\nMdqnlFwoVCeMlJ1z0dFp/KZkNLFaq0MqooKyM7wGHnQ=\n\n— storeware.ai/price-record BYOfc2ZwvwoOQaLfVeqZ1vemL+1DYsjkpYoPWnKddNImqiRL42jPhkiQMfCLLZ04Tv8oWF6SU3I7gm1nGWfxOKBfWAU=\n",
+  "created_at": "2026-11-02T07:01:34.946Z",
+  "anchors": [],
+  "public_key": {
+    "kty": "OKP",
+    "crv": "Ed25519",
+    "x": "vP_5IEr3wODGjqwdMQl7D-7qIpZoFvIl044eN-WmST4"
+  }
+}
